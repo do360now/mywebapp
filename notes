@@ -9,3 +9,7 @@ sudo apt-get update && \
 
   dotnet build
 dotnet run
+
+git branch feature-devops-home-page
+git checkout feature-devops-home-page
+git branch --list
